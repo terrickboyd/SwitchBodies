@@ -10621,3 +10621,57 @@ Make sure 'BP_MotionController_C' has been compiled for  Get Actor Near Hand
 [2021.10.21-15.59.39:805][ 98]LogSavePackage: Moving 'H:/DEV PROJECTS/SwitchBodies/Saved/MotionControllerPawnA6120F9247CF8603A4F3189A0507B8AA.tmp' to 'H:/DEV PROJECTS/SwitchBodies/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset'
 [2021.10.21-15.59.39:816][ 98]AssetCheck: New page: Asset Save: MotionControllerPawn
 [2021.10.21-15.59.39:816][ 98]LogContentValidation: Display: Validating Blueprint /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn
+[2021.10.21-16.00.43:339][584]LogSlate: Window 'MotionControllerPawn' being destroyed
+[2021.10.21-16.00.43:345][584]LogSlate: Window 'MotionControllerPawn' being destroyed
+[2021.10.21-16.00.43:353][584]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2021.10.21-16.00.43:353][584]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.21-16.00.45:696][829]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.10.21-16.00.45:714][829]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Temp/TakeRecorder/PendingTake.PendingTake:PendingTake
+[2021.10.21-16.00.45:772][829]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2021.10.21-16.00.51:096][415]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.10.21-16.00.51:112][415]LogContentBrowser: Verbose: The majority of assets in the view are of type: TakePreset
+[2021.10.21-16.00.52:404][562]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.10.21-16.00.52:414][562]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Temp/TakeRecorder/PendingTake.PendingTake:PendingTake
+[2021.10.21-16.00.55:319][875]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.10.21-16.00.55:335][875]LogContentBrowser: Verbose: The majority of assets in the view are of type: TakePreset
+[2021.10.21-16.00.56:839][ 40]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.10.21-16.00.56:848][ 40]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Temp/TakeRecorder/PendingTake.PendingTake:PendingTake
+[2021.10.21-16.01.08:170][301]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.10.21-16.01.09:531][440]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2021.10.21-16.01.09:536][440]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.10.21-16.01.09:550][440]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Minimal_Default" FILE="H:/DEV PROJECTS/SwitchBodies/Content/StarterContent/Maps/Minimal_Default.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.10.21-16.01.09:593][440]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2021.10.21-16.01.09:618][440]LogSavePackage: Moving 'H:/DEV PROJECTS/SwitchBodies/Saved/Minimal_DefaultDEAD0EF240F03E5CFBCF7197F34CC288.tmp' to 'H:/DEV PROJECTS/SwitchBodies/Content/StarterContent/Maps/Minimal_Default.umap'
+[2021.10.21-16.01.09:628][440]LogFileHelpers: Saving map 'Minimal_Default' took 0.078
+[2021.10.21-16.01.09:638][440]AssetCheck: New page: Asset Save: Minimal_Default
+[2021.10.21-16.01.09:638][440]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2021.10.21-16.03.56:195][402]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.10.21-16.03.56:216][402]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController
+[2021.10.21-16.03.56:262][402]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.10.21-16.03.56:745][402]LogMotionControllerComponent: Warning: Failed to create a display component for the MotionController - no XR system (if there were any) had a model for the specified source ('Left')
+[2021.10.21-16.03.59:460][593]LogMotionControllerComponent: Warning: Failed to create a display component for the MotionController - no XR system (if there were any) had a model for the specified source ('EControllerHand::Left')
+[2021.10.21-16.03.59:461][593]LogMotionControllerComponent: Warning: Failed to create a display component for the MotionController - no XR system (if there were any) had a model for the specified source ('Left')
+[2021.10.21-16.05.01:803][816]LogSlate: Window 'BP_MotionController' being destroyed
+[2021.10.21-16.05.01:808][816]LogSlate: Window 'BP_MotionController' being destroyed
+[2021.10.21-16.05.01:853][816]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.10.21-16.05.01:853][816]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.21-16.06.09:245][847]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.10.21-16.06.52:446][306]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.10.21-16.06.53:997][477]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2021.10.21-16.06.54:012][477]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.10.21-16.06.54:035][477]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Minimal_Default" FILE="H:/DEV PROJECTS/SwitchBodies/Content/StarterContent/Maps/Minimal_Default.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.10.21-16.06.54:050][477]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2021.10.21-16.06.54:078][477]LogSavePackage: Moving 'H:/DEV PROJECTS/SwitchBodies/Saved/Minimal_Default386FA7944F454067F10FFBB7D1E5532F.tmp' to 'H:/DEV PROJECTS/SwitchBodies/Content/StarterContent/Maps/Minimal_Default.umap'
+[2021.10.21-16.06.54:089][477]LogFileHelpers: Saving map 'Minimal_Default' took 0.054
+[2021.10.21-16.06.54:102][477]AssetCheck: New page: Asset Save: Minimal_Default
+[2021.10.21-16.06.54:102][477]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2021.10.21-16.07.44:594][399]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.10.21-16.08.06:316][602]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.10.21-16.08.07:720][754]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2021.10.21-16.08.07:738][754]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.10.21-16.08.07:751][754]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Minimal_Default" FILE="H:/DEV PROJECTS/SwitchBodies/Content/StarterContent/Maps/Minimal_Default.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.10.21-16.08.07:764][754]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2021.10.21-16.08.07:790][754]LogSavePackage: Moving 'H:/DEV PROJECTS/SwitchBodies/Saved/Minimal_DefaultC2A4663C49BF6519A4A8EB985B508F89.tmp' to 'H:/DEV PROJECTS/SwitchBodies/Content/StarterContent/Maps/Minimal_Default.umap'
+[2021.10.21-16.08.07:800][754]LogFileHelpers: Saving map 'Minimal_Default' took 0.050
+[2021.10.21-16.08.07:811][754]AssetCheck: New page: Asset Save: Minimal_Default
+[2021.10.21-16.08.07:811][754]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
