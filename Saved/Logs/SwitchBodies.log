@@ -1029,3 +1029,28 @@ Make sure 'BP_MotionController_C' has been compiled for  Get Actor Near Hand
 [2021.10.21-15.42.31:760][300]LogFileHelpers: Saving map 'Minimal_Default' took 0.049
 [2021.10.21-15.42.31:773][300]AssetCheck: New page: Asset Save: Minimal_Default
 [2021.10.21-15.42.31:774][300]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2021.10.21-15.43.24:326][ 58]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.10.21-15.43.24:343][ 58]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn
+[2021.10.21-15.43.24:390][ 58]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.10.21-15.49.55:617][481]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.10.21-15.50.02:093][ 29]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.10.21-15.50.02:655][ 63]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.10.21-15.50.19:785][514]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.10.21-15.50.20:526][563]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.10.21-15.50.22:684][733]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.10.21-15.50.23:503][779]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.10.21-15.50.43:354][258]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.10.21-15.51.00:283][684]BlueprintLog: New page: Compile MotionControllerPawn
+[2021.10.21-15.51.00:354][684]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2021.10.21-15.51.02:073][796]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.10.21-15.51.03:233][897]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2021.10.21-15.51.03:236][897]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.10.21-15.51.03:246][897]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Minimal_Default" FILE="H:/DEV PROJECTS/SwitchBodies/Content/StarterContent/Maps/Minimal_Default.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.10.21-15.51.03:263][897]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2021.10.21-15.51.03:287][897]LogSavePackage: Moving 'H:/DEV PROJECTS/SwitchBodies/Saved/Minimal_DefaultA95D73064E70706E817B47A57057E476.tmp' to 'H:/DEV PROJECTS/SwitchBodies/Content/StarterContent/Maps/Minimal_Default.umap'
+[2021.10.21-15.51.03:298][897]LogFileHelpers: Saving map 'Minimal_Default' took 0.052
+[2021.10.21-15.51.03:298][897]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VirtualRealityBP/Blueprints/MotionControllerPawn" FILE="H:/DEV PROJECTS/SwitchBodies/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset" SILENT=true
+[2021.10.21-15.51.03:387][897]LogSavePackage: Moving 'H:/DEV PROJECTS/SwitchBodies/Saved/MotionControllerPawn17DBB97A4AB6C214CD933BBEDAE176CC.tmp' to 'H:/DEV PROJECTS/SwitchBodies/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset'
+[2021.10.21-15.51.03:405][897]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.21-15.51.03:405][897]LogContentValidation: Display: Validating Blueprint /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn
+[2021.10.21-15.51.03:405][897]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
